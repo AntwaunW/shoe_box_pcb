@@ -58,12 +58,12 @@
   },
   "git": {
     "integration_disabled": false,
-    "repo_type": "",
+    "repo_type": "https",
     "repo_username": "",
     "ssh_key": ""
   },
   "meta": {
-    "filename": "shoe_box_pcb.kicad_prl",
+    "filename": "shoe_box_pcb_v1.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -94,12 +94,12 @@
     "col_widths": [
       162,
       147,
-      91,
-      67,
-      91,
-      91,
-      91,
-      71,
+      113,
+      92,
+      98,
+      115,
+      100,
+      98,
       91,
       91
     ],

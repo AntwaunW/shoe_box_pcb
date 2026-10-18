@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "shoe_box_pcb.kicad_pro",
+    "filename": "shoe_box_pcb_v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -664,12 +664,12 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "shoe_box_pcb.kicad_sch",
-        "name": "shoe_box_pcb",
+        "filename": "shoe_box_pcb_v1.kicad_sch",
+        "name": "shoe_box_pcb_v1",
         "uuid": "9282526e-413a-4695-aa00-10cbde1fef81"
       }
     ],
-    "used_designators": "U1,SW1,#FLG1-3,J1-2,D1,#PWR1-3",
+    "used_designators": "DS1,U1-3,SW1-2,R1-3,#FLG1-3,J1-6,D1-2,#PWR1-19,Q1,Y1,C1-5",
     "variants": []
   },
   "sheets": [
