@@ -3566,7 +3566,7 @@
 		(uuid "9912d5ef-4286-4515-8d14-ff0b3bdbb1f4")
 	)
 	(junction
-		(at 173.99 143.51)
+		(at 176.53 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d7bdd1d-0aab-49d5-94e3-27ed73a55de9")
@@ -3667,16 +3667,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 143.51) (xy 173.99 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06951413-bc21-40a2-b2fa-46eb826f7802")
-	)
-	(wire
-		(pts
 			(xy 142.24 53.34) (xy 142.24 54.61)
 		)
 		(stroke
@@ -3757,16 +3747,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 143.51) (xy 173.99 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "269d754f-1c08-4c97-a869-75c11a74360b")
-	)
-	(wire
-		(pts
 			(xy 213.36 82.55) (xy 194.31 82.55)
 		)
 		(stroke
@@ -3797,7 +3777,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 153.67) (xy 170.18 143.51)
+			(xy 176.53 143.51) (xy 176.53 153.67)
 		)
 		(stroke
 			(width 0)
@@ -3827,7 +3807,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 146.05) (xy 185.42 146.05)
+			(xy 184.15 146.05) (xy 185.42 146.05)
 		)
 		(stroke
 			(width 0)
@@ -4167,7 +4147,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 153.67) (xy 209.55 153.67)
+			(xy 176.53 153.67) (xy 209.55 153.67)
 		)
 		(stroke
 			(width 0)
@@ -4447,7 +4427,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 140.97) (xy 173.99 143.51)
+			(xy 176.53 140.97) (xy 176.53 143.51)
 		)
 		(stroke
 			(width 0)
@@ -4517,7 +4497,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 143.51) (xy 173.99 143.51)
+			(xy 185.42 143.51) (xy 176.53 143.51)
 		)
 		(stroke
 			(width 0)
@@ -5107,7 +5087,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 173.99 140.97 0)
+		(at 176.53 140.97 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5118,7 +5098,7 @@
 		(fields_autoplaced yes)
 		(uuid "0e53e0d8-91c2-4b28-ab07-ba10da5ed421")
 		(property "Reference" "#PWR09"
-			(at 173.99 144.78 0)
+			(at 176.53 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5129,7 +5109,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 173.99 135.89 0)
+			(at 176.53 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5139,7 +5119,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 140.97 0)
+			(at 176.53 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5150,7 +5130,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 140.97 0)
+			(at 176.53 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5161,7 +5141,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 173.99 140.97 0)
+			(at 176.53 140.97 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5521,7 +5501,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R 1k"
+		(property "Value" "1k"
 			(at 179.07 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5603,7 +5583,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C 100nF"
+		(property "Value" "100nF"
 			(at 162.56 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5685,7 +5665,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C 22pF"
+		(property "Value" "22pF"
 			(at 217.17 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5834,7 +5814,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 177.8 146.05 0)
+		(at 180.34 146.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5844,7 +5824,7 @@
 		(dnp no)
 		(uuid "3975617e-d964-47a5-902b-8d2f104b0d62")
 		(property "Reference" "D2"
-			(at 179.07 150.876 0)
+			(at 181.61 150.876 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5853,8 +5833,8 @@
 				)
 			)
 		)
-		(property "Value" "D 1N4007"
-			(at 179.07 148.59 0)
+		(property "Value" "1N4007"
+			(at 181.61 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5864,7 +5844,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
-			(at 177.8 146.05 0)
+			(at 180.34 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5875,7 +5855,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 177.8 146.05 0)
+			(at 180.34 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5886,7 +5866,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 177.8 146.05 0)
+			(at 180.34 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5897,7 +5877,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 177.8 146.05 0)
+			(at 180.34 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5908,7 +5888,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 177.8 146.05 0)
+			(at 180.34 146.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5956,7 +5936,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R 10k"
+		(property "Value" "10k"
 			(at 129.54 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6588,7 +6568,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R 10k"
+		(property "Value" "10k"
 			(at 189.23 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6770,7 +6750,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C 100nF"
+		(property "Value" "100nF"
 			(at 146.05 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7258,7 +7238,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C 22pF"
+		(property "Value" "22pF"
 			(at 201.93 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7665,7 +7645,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C 100nF"
+		(property "Value" "100nF"
 			(at 185.42 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
