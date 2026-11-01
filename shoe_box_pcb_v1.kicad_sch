@@ -4,6 +4,9 @@
 	(generator_version "10.0")
 	(uuid "9282526e-413a-4695-aa00-10cbde1fef81")
 	(paper "A4")
+	(title_block
+		(title "shoe_box_rfid")
+	)
 	(lib_symbols
 		(symbol "Connector:Barrel_Jack"
 			(pin_names
@@ -7474,7 +7477,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x06_Pin_Male"
+		(property "Value" "Serial programming header"
 			(at 183.515 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
