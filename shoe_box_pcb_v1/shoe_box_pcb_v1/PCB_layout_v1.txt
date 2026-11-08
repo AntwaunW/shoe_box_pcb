@@ -1,0 +1,432 @@
+Info: Processing symbol 'C1:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C7:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'J1:Package_DFN_QFN:QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'J6:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'D1:LED_THT:LED_D5.0mm'.
+Info: Processing symbol 'C4:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C2:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'C6:Capacitor_THT:CP_Radial_D8.0mm_P3.50mm'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical'.
+Info: Processing symbol 'Y1:Crystal:Crystal_HC49-4H_Vertical'.
+Info: Processing symbol 'U2:Package_DIP:DIP-28_W7.62mm'.
+Info: Processing symbol 'H1:'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'C8:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'H2:'.
+Info: Processing symbol 'SW2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'H3:'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C5:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'C3:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'H4:'.
+Added C1 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to C1.
+Changed C1 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 22pF.
+Updated C1 symbol association from  to /3494878c-e6c7-4fbc-af74-c77e9a65a3e3.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net Net-(U2-XTAL1/PB6).
+Connected C1 pin 1 to Net-(U2-XTAL1/PB6).
+Add net GND.
+Connected C1 pin 2 to GND.
+Updated C1 unit metadata.
+Added C2 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to C2.
+Changed C2 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 22pF.
+Updated C2 symbol association from  to /b92a16bb-4b49-4d82-8cc7-ef3d6984b756.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Connected C2 pin 2 to GND.
+Add net Net-(U2-XTAL2/PB7).
+Connected C2 pin 1 to Net-(U2-XTAL2/PB7).
+Updated C2 unit metadata.
+Added C3 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to C3.
+Changed C3 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF.
+Updated C3 symbol association from  to /7ff70ae4-3680-4b19-838d-715c1141fbb5.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 1 to GND.
+Add net Net-(J2-Pin_4).
+Connected C3 pin 2 to Net-(J2-Pin_4).
+Updated C3 unit metadata.
+Added C4 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to C4.
+Changed C4 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF.
+Updated C4 symbol association from  to /30921bc9-9d52-4a7a-b81f-cdc5a2bbcd47.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 1 to GND.
+Add net Net-(U2-AVCC).
+Connected C4 pin 2 to Net-(U2-AVCC).
+Updated C4 unit metadata.
+Added C5 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Changed REF** reference designator to C5.
+Changed C5 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF.
+Updated C5 symbol association from  to /cb10f03c-38ac-4366-9a00-96e571eed149.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Add net UART_DTR.
+Connected C5 pin 1 to UART_DTR.
+Add net Net-(U2-~{RESET}/PC6).
+Connected C5 pin 2 to Net-(U2-~{RESET}/PC6).
+Updated C5 unit metadata.
+Added C6 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P3.50mm').
+Changed REF** reference designator to C6.
+Changed C6 value from CP_Radial_D8.0mm_P3.50mm to 470uF.
+Updated C6 symbol association from  to /cd46f76a-2d58-4e0b-93bb-c422b5d36af4.
+Updated C6 fields.
+Updated C6 sheetname to '/'.
+Updated C6 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated C6 footprint filters to 'CP_*'.
+Connected C6 pin 2 to GND.
+Add net +12V.
+Connected C6 pin 1 to +12V.
+Updated C6 unit metadata.
+Added C7 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Changed REF** reference designator to C7.
+Changed C7 value from SOT-223-3_TabPin2 to 10uF.
+Updated C7 symbol association from  to /91cf3fb4-06d6-4072-8cee-f7347ca1cc51.
+Updated C7 fields.
+Updated C7 sheetname to '/'.
+Updated C7 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Add net +5V.
+Connected C7 pin 1 to +5V.
+Add net Net-(U1-GND).
+Connected C7 pin 2 to Net-(U1-GND).
+Connected C7 pin 2 to Net-(U1-GND).
+Add net unconnected-(U2-PC2-Pad25).
+Updated C7 unit metadata.
+Added C8 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Changed REF** reference designator to C8.
+Changed C8 value from SOT-223-3_TabPin2 to 22uF.
+Updated C8 symbol association from  to /6c59a5a2-d401-441b-8dc5-b0b470936cbb.
+Updated C8 fields.
+Updated C8 sheetname to '/'.
+Updated C8 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Connected C8 pin 2 to Net-(U1-GND).
+Connected U2 pin 25 to unconnected-(U2-PC2-Pad25).
+Add net +3.3V.
+Connected C8 pin 1 to +3.3V.
+Connected C8 pin 2 to Net-(U1-GND).
+Updated C8 unit metadata.
+Added D1 (footprint 'LED_THT:LED_D5.0mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D5.0mm to LED.
+Updated D1 symbol association from  to /1c972329-464c-4bc9-9cfb-130f98eeb390.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net Net-(D1-K).
+Connected D1 pin 1 to Net-(D1-K).
+Connected D1 pin 2 to GND.
+Updated D1 unit metadata.
+Added D2 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Changed REF** reference designator to D2.
+Changed D2 value from D_DO-41_SOD81_P10.16mm_Horizontal to 1N4007.
+Updated D2 symbol association from  to /3975617e-d964-47a5-902b-8d2f104b0d62.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated D2 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D2 pin 2 to +12V.
+Connected D2 pin 1 to +12V.
+Updated D2 unit metadata.
+Connected U2 pin 7 to Net-(J2-Pin_4).
+Add net unconnected-(U2-PD7-Pad13).
+Connected U2 pin 13 to unconnected-(U2-PD7-Pad13).
+Add net unconnected-(U2-PB1-Pad15).
+Added J1 (footprint 'Package_DFN_QFN:QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm').
+Changed REF** reference designator to J1.
+Changed J1 value from QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm to Barrel_Jack.
+Updated J1 symbol association from  to /a192ce1b-971a-42c0-ab3b-8c444597c481.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated J1 footprint filters to 'BarrelJack*'.
+Connected U2 pin 15 to unconnected-(U2-PB1-Pad15).
+Connected U2 pin 17 to RFID_MOSI.
+Connected U2 pin 20 to Net-(U2-AVCC).
+Connected U2 pin 1 to Net-(U2-~{RESET}/PC6).
+Add net unconnected-(U2-PD4-Pad6).
+Connected U2 pin 6 to unconnected-(U2-PD4-Pad6).
+Add net unconnected-(U2-PD5-Pad11).
+Connected U2 pin 11 to unconnected-(U2-PD5-Pad11).
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical').
+Connected U2 pin 5 to Net-(U2-PD3).
+Connected U2 pin 2 to UART_TX.
+Connected J1 pin 1 to +12V.
+Add net unconnected-(U2-PC5-Pad28).
+Connected U2 pin 28 to unconnected-(U2-PC5-Pad28).
+Add net unconnected-(U2-PD6-Pad12).
+Connected U2 pin 12 to unconnected-(U2-PD6-Pad12).
+Updated U2 unit metadata.
+Added Y1 (footprint 'Crystal:Crystal_HC49-4H_Vertical').
+Changed REF** reference designator to Y1.
+Changed Y1 value from Crystal_HC49-4H_Vertical to Crystal 16MHz.
+Updated Y1 symbol association from  to /49566bfd-5f06-4a04-b474-d68822115c38.
+Updated Y1 fields.
+Updated Y1 sheetname to '/'.
+Updated Y1 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated Y1 footprint filters to 'Crystal*'.
+Connected Y1 pin 2 to Net-(U2-XTAL1/PB6).
+Connected Y1 pin 1 to Net-(U2-XTAL2/PB7).
+Updated Y1 unit metadata.
+Connected J1 pin 2 to GND.
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x06_P2.54mm_Vertical to Conn_01x06_Pin_Male.
+Updated J2 symbol association from  to /c027f6d2-a0ee-43cf-860b-4a00b7507d25.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 4 to Net-(J2-Pin_4).
+Add net UART_RX.
+Connected J2 pin 2 to UART_RX.
+Connected J2 pin 1 to UART_DTR.
+Connected J2 pin 6 to GND.
+Add net UART_TX.
+Connected J2 pin 3 to UART_TX.
+Connected J2 pin 5 to GND.
+Updated J2 unit metadata.
+Changed J6 value from PinHeader_1x04_P2.54mm_Vertical to 5V BUCK_CONV.
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x07_P2.54mm_Vertical to RFID READER.
+Updated J3 symbol association from  to /7b47e9a6-86dc-4ebb-8c5d-c0372f051a9f.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Add net RFID_RST.
+Connected J3 pin 1 to RFID_RST.
+Add net RFID_MISO.
+Connected J3 pin 5 to RFID_MISO.
+Connected J3 pin 7 to +3.3V.
+Add net RFID_SDA.
+Connected J3 pin 3 to RFID_SDA.
+Add net RFID_MOSI.
+Connected J3 pin 4 to RFID_MOSI.
+Add net unconnected-(J3-Pin_2-Pad2).
+Connected J3 pin 2 to unconnected-(J3-Pin_2-Pad2).
+Add net RFID_SCK.
+Connected J3 pin 6 to RFID_SCK.
+Updated J3 unit metadata.
+Added J4 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to J4.
+Changed J4 value from PinHeader_1x02_P2.54mm_Vertical to SOLENOID_CONN.
+Updated J4 symbol association from  to /2261c89e-aa2b-41a3-af9e-39e4feed3045.
+Updated J4 fields.
+Updated J4 sheetname to '/'.
+Updated J4 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated J4 footprint filters to 'Connector*:*_1x??_*'.
+Connected J4 pin 1 to +12V.
+Connected J4 pin 2 to +12V.
+Updated J4 unit metadata.
+Added J5 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J5.
+Changed J5 value from PinHeader_1x04_P2.54mm_Vertical to LCD screen.
+Updated J5 symbol association from  to /d73a5b36-3ab9-48bc-8ea2-208f12b33f25.
+Updated J5 fields.
+Updated J5 sheetname to '/'.
+Updated J5 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated J5 footprint filters to 'Connector*:*_1x??_*'.
+Add net I2C_SCL.
+Connected J5 pin 4 to I2C_SCL.
+Add net I2C_SDA.
+Connected J5 pin 3 to I2C_SDA.
+Connected J5 pin 1 to GND.
+Connected J5 pin 2 to +5V.
+Updated J5 unit metadata.
+Added J6 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J6.
+Updated J6 symbol association from  to /37cc01ad-f032-4baa-889c-3ae99983a822.
+Updated J6 fields.
+Updated J6 sheetname to '/'.
+Updated J6 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated J6 footprint filters to 'Connector*:*_1x??_*'.
+Connected J6 pin 2 to GND.
+Connected J6 pin 1 to +12V.
+Connected J6 pin 3 to GND.
+Connected J6 pin 4 to +5V.
+Updated J6 unit metadata.
+Added Q1 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-220-3_Vertical to MOSFET.
+Updated Q1 symbol association from  to /841fc3e4-53d0-41ea-abca-1a685267919c.
+Updated Q1 fields.
+Updated Q1 sheetname to '/'.
+Updated Q1 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated Q1 footprint filters to 'TO?220*'.
+Connected Q1 pin 3 to GND.
+Connected Q1 pin 2 to +12V.
+Add net Net-(Q1-G).
+Connected Q1 pin 1 to Net-(Q1-G).
+Updated Q1 unit metadata.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 1k.
+Updated R1 symbol association from  to /26f05471-aaab-40a5-9271-012a8aa7555f.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to Net-(Q1-G).
+Add net Net-(U2-PD3).
+Connected R1 pin 2 to Net-(U2-PD3).
+Updated R1 unit metadata.
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R2 symbol association from  to /4636121f-a5c6-4b0a-b5ad-87dd7384e8ab.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to Net-(U2-~{RESET}/PC6).
+Connected R2 pin 1 to +5V.
+Updated R2 unit metadata.
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 10k.
+Updated R3 symbol association from  to /774a92ab-55f9-4403-8b80-6ec8af98410c.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Connected R3 pin 1 to Net-(Q1-G).
+Connected R3 pin 2 to GND.
+Updated R3 unit metadata.
+Added R4 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R4.
+Changed R4 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal to 470k.
+Updated R4 symbol association from  to /8dc36cf8-a7e0-407f-8fee-0c4ddc51b405.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 1 to +5V.
+Connected R4 pin 2 to Net-(D1-K).
+Updated R4 unit metadata.
+Added SW2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Changed REF** reference designator to SW2.
+Changed SW2 value from PinHeader_1x02_P2.54mm_Vertical to SW_Push.
+Updated SW2 symbol association from  to /ec42de42-10fb-4625-81dd-251340b90206.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Connected SW2 pin 1 to GND.
+Add net Net-(U2-PD2).
+Connected SW2 pin 2 to Net-(U2-PD2).
+Updated SW2 unit metadata.
+Added U1 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Changed REF** reference designator to U1.
+Changed U1 value from SOT-223-3_TabPin2 to AMS1117-3.3.
+Updated U1 symbol association from  to /92ce8f06-f23c-4299-bf92-bc8c9d454fb2.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated U1 footprint filters to 'SOT?223*TabPin2*'.
+Connected U1 pin 3 to +5V.
+Connected U1 pin 1 to Net-(U1-GND).
+Connected U1 pin 2 to +3.3V.
+Connected U1 pin 2 to +3.3V.
+Updated U1 unit metadata.
+Added U2 (footprint 'Package_DIP:DIP-28_W7.62mm').
+Changed REF** reference designator to U2.
+Changed U2 value from DIP-28_W7.62mm to ATmega328-P.
+Updated U2 symbol association from  to /a5976d48-6a5f-4277-a257-f495ec0ef660.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'shoe_box_pcb_v1.kicad_sch'.
+Updated U2 footprint filters to 'DIP*W7.62mm*'.
+Connected U2 pin 9 to Net-(U2-XTAL1/PB6).
+Connected U2 pin 19 to RFID_SCK.
+Connected U2 pin 4 to Net-(U2-PD2).
+Connected U2 pin 18 to RFID_MISO.
+Connected U2 pin 10 to Net-(U2-XTAL2/PB7).
+Connected U2 pin 3 to UART_RX.
+Add net Net-(U2-GND-Pad22).
+Connected U2 pin 8 to Net-(U2-GND-Pad22).
+Connected U2 pin 27 to I2C_SCL.
+Connected U2 pin 14 to RFID_RST.
+Connected U2 pin 26 to I2C_SDA.
+Add net unconnected-(U2-PC1-Pad24).
+Connected U2 pin 24 to unconnected-(U2-PC1-Pad24).
+Connected U2 pin 16 to RFID_SDA.
+Connected U2 pin 22 to Net-(U2-GND-Pad22).
+Add net unconnected-(U2-PC0-Pad23).
+Connected U2 pin 23 to unconnected-(U2-PC0-Pad23).
+Add net unconnected-(U2-AREF-Pad21).
+Connected U2 pin 21 to unconnected-(U2-AREF-Pad21).
+Warning: No net found for component C7 pad 3 (no pin 3 in symbol).
+Warning: No net found for component C8 pad 3 (no pin 3 in symbol).
+Warning: No net found for component J1 pad 25 (no pin 25 in symbol).
+Warning: No net found for component J1 pad 12 (no pin 12 in symbol).
+Warning: No net found for component J1 pad 37 (no pin 37 in symbol).
+Warning: No net found for component J1 pad 36 (no pin 36 in symbol).
+Warning: No net found for component J1 pad 41 (no pin 41 in symbol).
+Warning: No net found for component J1 pad 17 (no pin 17 in symbol).
+Warning: No net found for component J1 pad 10 (no pin 10 in symbol).
+Warning: No net found for component J1 pad 34 (no pin 34 in symbol).
+Warning: No net found for component J1 pad 16 (no pin 16 in symbol).
+Warning: No net found for component J1 pad 32 (no pin 32 in symbol).
+Warning: No net found for component J1 pad 19 (no pin 19 in symbol).
+Warning: No net found for component J1 pad 27 (no pin 27 in symbol).
+Warning: No net found for component J1 pad 11 (no pin 11 in symbol).
+Warning: No net found for component J1 pad 31 (no pin 31 in symbol).
+Warning: No net found for component J1 pad 33 (no pin 33 in symbol).
+Warning: No net found for component J1 pad 13 (no pin 13 in symbol).
+Warning: No net found for component J1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component J1 pad 15 (no pin 15 in symbol).
+Warning: No net found for component J1 pad 7 (no pin 7 in symbol).
+Warning: No net found for component J1 pad 14 (no pin 14 in symbol).
+Warning: No net found for component J1 pad 28 (no pin 28 in symbol).
+Warning: No net found for component J1 pad 20 (no pin 20 in symbol).
+Warning: No net found for component J1 pad 26 (no pin 26 in symbol).
+Warning: No net found for component J1 pad 24 (no pin 24 in symbol).
+Warning: No net found for component J1 pad 3 (no pin 3 in symbol).
+Warning: No net found for component J1 pad 22 (no pin 22 in symbol).
+Warning: No net found for component J1 pad 35 (no pin 35 in symbol).
+Warning: No net found for component J1 pad 9 (no pin 9 in symbol).
+Warning: No net found for component J1 pad 38 (no pin 38 in symbol).
+Warning: No net found for component J1 pad 21 (no pin 21 in symbol).
+Warning: No net found for component J1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component J1 pad 8 (no pin 8 in symbol).
+Warning: No net found for component J1 pad 39 (no pin 39 in symbol).
+Warning: No net found for component J1 pad 29 (no pin 29 in symbol).
+Warning: No net found for component J1 pad 40 (no pin 40 in symbol).
+Warning: No net found for component J1 pad 23 (no pin 23 in symbol).
+Warning: No net found for component J1 pad 18 (no pin 18 in symbol).
+Warning: No net found for component J1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component J1 pad 30 (no pin 30 in symbol).
+Error: Cannot add H1 (no footprint assigned).
+Error: Cannot add H2 (no footprint assigned).
+Error: Cannot add H3 (no footprint assigned).
+Error: Cannot add H4 (no footprint assigned).
+Error: J3 pad 8 not found in Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical.
+
+
+Info: Total warnings: 41, errors: 5.
